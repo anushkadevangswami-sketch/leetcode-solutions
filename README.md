@@ -18,4 +18,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
+## Math
+|  |
+| ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/1071-greatest-common-divisor-of-strings) |
+## String
+|  |
+| ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 <!---LeetCode Topics End-->
