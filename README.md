@@ -21,9 +21,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1025-divisor-game](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/1025-divisor-game) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 ## String
 |  |
 | ------- |
 | [1071-greatest-common-divisor-of-strings](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/1071-greatest-common-divisor-of-strings) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/1025-divisor-game) |
+## Brainteaser
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/1025-divisor-game) |
+## Game Theory
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
