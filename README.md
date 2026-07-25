@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0049-group-anagrams](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/0075-sort-colors) |
 | [1260-shift-2d-grid](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/1260-shift-2d-grid) |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0771-jewels-and-stones](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/0771-jewels-and-stones) |
 ## Binary Search
 |  |
@@ -37,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0696-count-binary-substrings](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/0696-count-binary-substrings) |
 | [0771-jewels-and-stones](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/0771-jewels-and-stones) |
 | [0844-backspace-string-compare](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/0844-backspace-string-compare) |
@@ -84,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/0075-sort-colors) |
 | [3536-maximum-product-of-two-digits](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
