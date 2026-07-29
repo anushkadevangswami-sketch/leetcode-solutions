@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1528-shuffle-string](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/1528-shuffle-string) |
 | [1678-goal-parser-interpretation](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/1678-goal-parser-interpretation) |
 | [1816-truncate-sentence](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/1816-truncate-sentence) |
+| [2315-count-asterisks](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/2315-count-asterisks) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Dynamic Programming
