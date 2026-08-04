@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0406-queue-reconstruction-by-height](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/0406-queue-reconstruction-by-height) |
 | [0561-array-partition](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/0877-stone-game) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/0075-sort-colors) |
+| [0406-queue-reconstruction-by-height](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/0406-queue-reconstruction-by-height) |
 | [0561-array-partition](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -175,4 +177,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1221-split-a-string-in-balanced-strings](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/1221-split-a-string-in-balanced-strings) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0406-queue-reconstruction-by-height](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/0406-queue-reconstruction-by-height) |
+## Segment Tree
+|  |
+| ------- |
+| [0406-queue-reconstruction-by-height](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/0406-queue-reconstruction-by-height) |
 <!---LeetCode Topics End-->
