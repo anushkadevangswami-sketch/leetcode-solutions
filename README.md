@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0036-valid-sudoku](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/0039-combination-sum) |
+| [0045-jump-game-ii](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/0066-plus-one) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/0055-jump-game) |
 | [0119-pascals-triangle-ii](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/0119-pascals-triangle-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0561-array-partition](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/0561-array-partition) |
