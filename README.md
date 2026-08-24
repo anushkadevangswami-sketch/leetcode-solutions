@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [0036-valid-sudoku](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/0049-group-anagrams) |
+| [0290-word-pattern](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/0290-word-pattern) |
 | [0763-partition-labels](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/0763-partition-labels) |
 | [0771-jewels-and-stones](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/0771-jewels-and-stones) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [0049-group-anagrams](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0151-reverse-words-in-a-string](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
+| [0290-word-pattern](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/0290-word-pattern) |
 | [0392-is-subsequence](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0696-count-binary-substrings](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/0696-count-binary-substrings) |
 | [0763-partition-labels](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/0763-partition-labels) |
