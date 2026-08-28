@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1816-truncate-sentence](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/1816-truncate-sentence) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/2029-stone-game-ix) |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/0771-jewels-and-stones) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -229,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/1221-split-a-string-in-balanced-strings) |
 | [2029-stone-game-ix](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/2029-stone-game-ix) |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Binary Indexed Tree
