@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/2029-stone-game-ix) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/2225-find-players-with-zero-or-one-losses) |
+| [2363-merge-similar-items](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/2363-merge-similar-items) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/2225-find-players-with-zero-or-one-losses) |
+| [2363-merge-similar-items](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/2363-merge-similar-items) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/2225-find-players-with-zero-or-one-losses) |
+| [2363-merge-similar-items](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/2363-merge-similar-items) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -263,4 +266,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/0202-happy-number) |
+## Ordered Set
+|  |
+| ------- |
+| [2363-merge-similar-items](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/2363-merge-similar-items) |
 <!---LeetCode Topics End-->
