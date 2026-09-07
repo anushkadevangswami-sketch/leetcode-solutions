@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/0231-power-of-two) |
+| [0509-fibonacci-number](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/1025-divisor-game) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0338-counting-bits](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/0392-is-subsequence) |
+| [0509-fibonacci-number](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/1025-divisor-game) |
 ## Brainteaser
@@ -324,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/0231-power-of-two) |
+| [0509-fibonacci-number](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/0509-fibonacci-number) |
 ## Interactive
 |  |
 | ------- |
@@ -332,4 +335,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
