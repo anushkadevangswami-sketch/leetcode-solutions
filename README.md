@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/0877-stone-game) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1260-shift-2d-grid](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/1260-shift-2d-grid) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1436-destination-city](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/1436-destination-city) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1528-shuffle-string](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/1528-shuffle-string) |
