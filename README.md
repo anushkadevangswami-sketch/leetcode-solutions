@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1025-divisor-game](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/1025-divisor-game) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1323-maximum-69-number](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/1323-maximum-69-number) |
+| [1903-largest-odd-number-in-string](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/2029-stone-game-ix) |
 | [2235-add-two-integers](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/2235-add-two-integers) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1678-goal-parser-interpretation](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/1678-goal-parser-interpretation) |
 | [1816-truncate-sentence](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/1816-truncate-sentence) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [1903-largest-odd-number-in-string](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2315-count-asterisks](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/2315-count-asterisks) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -247,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1323-maximum-69-number](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/1323-maximum-69-number) |
+| [1903-largest-odd-number-in-string](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
 | [2029-stone-game-ix](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
