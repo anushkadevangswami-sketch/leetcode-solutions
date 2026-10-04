@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0451-sort-characters-by-frequency](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
+| [0678-valid-parenthesis-string](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [0696-count-binary-substrings](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/0696-count-binary-substrings) |
 | [0763-partition-labels](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/0763-partition-labels) |
 | [0771-jewels-and-stones](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/0771-jewels-and-stones) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/0509-fibonacci-number) |
+| [0678-valid-parenthesis-string](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/1025-divisor-game) |
 ## Brainteaser
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [0844-backspace-string-compare](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [1021-remove-outermost-parentheses](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -257,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0561-array-partition](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/0605-can-place-flowers) |
+| [0678-valid-parenthesis-string](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [0763-partition-labels](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/0763-partition-labels) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/1221-split-a-string-in-balanced-strings) |
@@ -372,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [1021-remove-outermost-parentheses](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bucket Sort
