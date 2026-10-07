@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/0771-jewels-and-stones) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1436-destination-city](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/1436-destination-city) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2363-merge-similar-items](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/2363-merge-similar-items) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1528-shuffle-string](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/1528-shuffle-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1678-goal-parser-interpretation](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/1678-goal-parser-interpretation) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1816-truncate-sentence](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/1816-truncate-sentence) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1903-largest-odd-number-in-string](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
@@ -313,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/0561-array-partition) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/1221-split-a-string-in-balanced-strings) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2029-stone-game-ix](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/2029-stone-game-ix) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
