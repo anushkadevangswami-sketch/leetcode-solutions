@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/0258-add-digits) |
+| [0292-nim-game](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/0292-nim-game) |
 | [0412-fizz-buzz](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0507-perfect-number](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/0509-fibonacci-number) |
@@ -206,10 +207,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Brainteaser
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/0292-nim-game) |
 | [1025-divisor-game](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/1025-divisor-game) |
 ## Game Theory
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/0292-nim-game) |
 | [0877-stone-game](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/1025-divisor-game) |
 | [2029-stone-game-ix](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/2029-stone-game-ix) |
@@ -369,10 +372,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Minimax
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/0292-nim-game) |
 | [2029-stone-game-ix](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/0292-nim-game) |
 | [2029-stone-game-ix](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
@@ -452,4 +457,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/1141-user-activity-for-the-past-30-days-i) |
 | [1179-reformat-department-table](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/1179-reformat-department-table) |
+## Impartial Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
