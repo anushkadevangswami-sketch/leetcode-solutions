@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0560-subarray-sum-equals-k](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/0561-array-partition) |
+| [0575-distribute-candies](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/0575-distribute-candies) |
 | [0605-can-place-flowers](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/0877-stone-game) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0575-distribute-candies](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/0575-distribute-candies) |
 | [0763-partition-labels](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/0763-partition-labels) |
 | [0771-jewels-and-stones](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/0771-jewels-and-stones) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
