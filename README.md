@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/0258-add-digits) |
 | [0292-nim-game](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -440,12 +441,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0338-counting-bits](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/0338-counting-bits) |
+| [0342-power-of-four](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/0342-power-of-four) |
 ## Recursion
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [1922-count-good-numbers](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/1922-count-good-numbers) |
 ## Interactive
