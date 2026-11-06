@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/1470-shuffle-the-array) |
 | [1528-shuffle-string](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/1528-shuffle-string) |
+| [1539-kth-missing-positive-number](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/1539-kth-missing-positive-number) |
 | [1732-find-the-highest-altitude](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/1732-find-the-highest-altitude) |
 | [1816-truncate-sentence](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/1816-truncate-sentence) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1539-kth-missing-positive-number](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/1539-kth-missing-positive-number) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Divide and Conquer
 |  |
