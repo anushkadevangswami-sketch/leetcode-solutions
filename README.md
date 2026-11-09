@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0682-baseball-game](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/0682-baseball-game) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [0821-shortest-distance-to-a-character](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/0821-shortest-distance-to-a-character) |
 | [0877-stone-game](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/0877-stone-game) |
 | [0976-largest-perimeter-triangle](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/0976-largest-perimeter-triangle) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0763-partition-labels](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/0763-partition-labels) |
 | [0771-jewels-and-stones](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/0796-rotate-string) |
+| [0821-shortest-distance-to-a-character](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/0821-shortest-distance-to-a-character) |
 | [0844-backspace-string-compare](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [0856-score-of-parentheses](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -264,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0696-count-binary-substrings](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/0696-count-binary-substrings) |
 | [0763-partition-labels](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/0763-partition-labels) |
+| [0821-shortest-distance-to-a-character](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/0821-shortest-distance-to-a-character) |
 | [0844-backspace-string-compare](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
