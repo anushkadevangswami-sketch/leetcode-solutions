@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0278-first-bad-version](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0367-valid-perfect-square](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/0367-valid-perfect-square) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1539-kth-missing-positive-number](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/1539-kth-missing-positive-number) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/0342-power-of-four) |
+| [0367-valid-perfect-square](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
