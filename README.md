@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2029-stone-game-ix](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/2029-stone-game-ix) |
+| [2032-two-out-of-three](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/2032-two-out-of-three) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/2225-find-players-with-zero-or-one-losses) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1436-destination-city](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/1436-destination-city) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2032-two-out-of-three](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/2032-two-out-of-three) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2363-merge-similar-items](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/2363-merge-similar-items) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -459,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0338-counting-bits](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/0342-power-of-four) |
+| [2032-two-out-of-three](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/2032-two-out-of-three) |
 ## Recursion
 |  |
 | ------- |
