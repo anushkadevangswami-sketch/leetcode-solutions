@@ -222,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1832-check-if-the-sentence-is-pangram](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1903-largest-odd-number-in-string](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2315-count-asterisks](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/2315-count-asterisks) |
 | [2409-count-days-spent-together](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/2409-count-days-spent-together) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -299,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [1260-shift-2d-grid](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/1260-shift-2d-grid) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/anushkadevangswami-sketch/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Number Theory
 |  |
